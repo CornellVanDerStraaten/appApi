@@ -52,7 +52,7 @@ class StoreProductRequest
      * @OA\Property(
      *      title="Purchase Price",
      *      description="Purchase price of the product",
-     *      example="23,32"
+     *      example="10"
      * )
      *
      * @var float
@@ -63,7 +63,7 @@ class StoreProductRequest
      * @OA\Property(
      *      title="Selling Price",
      *      description="Selling price of the product",
-     *      example="23,32"
+     *      example="23.75"
      * )
      *
      * @var float

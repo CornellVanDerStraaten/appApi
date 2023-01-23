@@ -411,14 +411,14 @@
                         "description": "Purchase price of the product",
                         "type": "number",
                         "format": "float",
-                        "example": "23,32"
+                        "example": "10"
                     },
                     "selling_price": {
                         "title": "Selling Price",
                         "description": "Selling price of the product",
                         "type": "number",
                         "format": "float",
-                        "example": "23,32"
+                        "example": "23.75"
                     },
                     "image_url": {
                         "title": "Image Url",
@@ -503,14 +503,14 @@
                         "description": "Purchase price of the product",
                         "type": "number",
                         "format": "float",
-                        "example": "23,32"
+                        "example": "10"
                     },
                     "selling_price": {
                         "title": "Selling Price",
                         "description": "Selling price of the product",
                         "type": "number",
                         "format": "float",
-                        "example": "23,32"
+                        "example": "23.75"
                     },
                     "image_url": {
                         "title": "Image Url",
